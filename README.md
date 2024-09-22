@@ -4,9 +4,11 @@
  * @Date: 2024-09-22 18:35:23
 -->
 # awesome-pir
----
+
 
 This repo is a paper summary for **private information retrieval** (PIR). Please note that the main focus here is on **Single-Server PIR**. Besides a simple summary of the papers related PIR, I will provide a summary of the key technical constructions for each PIR scheme.
+
+If you have any questions about PIR, feel free to contact me.
 
 
 ##  PIR papers
