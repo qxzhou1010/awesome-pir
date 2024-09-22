@@ -75,7 +75,7 @@ We categorize the current PIR schemes into two types based on whether they have 
 - Summary: SimplePIR takes full advantage of Regev's ciphertext structure and the shape of the database by precomputing the parts that are independent of the queries.
 
 
-#### Piano
+#### Piano [S&P-2024]
 - [Piano: Extremely Simple, Single-Server PIR with Sublinear Server Computation](https://eprint.iacr.org/2023/452)
 - Youtube: https://www.youtube.com/watch?v=1EBY6VcCH0E
 - Code: https://github.com/pianopir/Piano-PIR
